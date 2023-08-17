@@ -5,20 +5,22 @@
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com    
+* 手 机：15522022300 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：2634263077@qq.com    
 * 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
 
-## 工作及教育经历
-
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+## 教育经历
+       
+* 天津大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.9~今.7&emsp;&emsp;&emsp;&emsp; 计算机技术专业-研究生         
+* 天津大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2021.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
 
 ## 专业技能
+* 后端：了解SpringBoot、SSM、Docker、RabbitMQ、JVM
+* 前端：了解Vue、HTML、CSS、JS、Element
+* 数据库：熟悉MySQL、Redis
+* 语言：熟悉Java编程、了解C++、了解python
+* 专业知识：计算机网络、设计模式、数据结构与算法、计算机组成原理、操作系统
+* 其他：Git版本控制、Linux
 
-* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
-* 掌握基础数据结构和算法的基本原理
-* 等等
 
 ## 项目经历
 
@@ -26,9 +28,13 @@
     * 具体功能 
     * 运用了那些技术，技术难点是
     * 效果如何
-    * demo演示地址，github地址 
+    * demo演示地址，github地址
+    * 
+1. 点评网站的开发
+RabbitMQ消息队列替换原有的秒杀券下单方案，（输入输出，库存超卖）提高响应速度。
+Redis缓存，减少数据库压力，缓存穿透、缓存击穿、缓存雪崩。
 
-2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401 
+2. 学校 - 坦克大战游戏 - 负责后端开发 - 201309- 201401 
     * 具体功能 
     * 运用了那些技术，技术难点是
     * 效果如何
